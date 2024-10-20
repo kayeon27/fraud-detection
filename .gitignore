@@ -1,0 +1,8 @@
+# Ignore les fichiers cachés
+.DS_Store
+*.swp
+
+# Ignore les fichiers de cache
+.pytest_cache
+__pycache__/
+.ipynb_checkpoints/
